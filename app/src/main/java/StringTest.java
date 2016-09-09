@@ -39,6 +39,9 @@ public class StringTest {
                 ",gameid text)";*/
 
        /* long time = System.currentTimeMillis();
+
+
+        
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy.MM.dd");
         Date date = new Date(time);
         String tim = simpleDateFormat.format(date);*/
