@@ -27,7 +27,7 @@ public class StringTest {
                 .append(",showed int")
                 .append(",delete int")
                 .append(",gameid text)");
-        /*String CREATE_MESSAGE = "create table game_message(_id integer primary key autoincrement," +
+        /*String CREATE_MESSAGE = "create table game_mes000000000000000000000sage(_id integer primary key autoincrement," +
                 "imageurl text," +
                 "gamename text," +
                 "flag int," +
